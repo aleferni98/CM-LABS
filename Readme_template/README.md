@@ -1,4 +1,4 @@
-# Click removal in degraded audio through cubic spline
+# Click removal in degraded audio through median filtering and cubic spline interpolation
 
 ## Description of the project
 The goal of this project is to reconstruct a degraded audio signal through two different interpolation methods on Python. The methods we will take into consideration will be:
